@@ -1,0 +1,24 @@
+.intro{
+    color:purple;
+}
+h1{
+  color:black;
+  font-family:"Comic Sans MS";
+  padding-left:150px;
+  background-color:white
+}
+h2{
+  color:black;
+}
+h3{
+  color:black
+}
+body{
+  background-image: url("https://www.videvo.net/videvo_files/images/Ocean_Waves_slow_motion_videvo.jpg;");
+  background-repeat: repeate-x;
+    padding-right:30px;
+  padding-left:30px;
+}
+.intro{
+  background-color:white;
+}
